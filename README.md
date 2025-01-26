@@ -4,54 +4,58 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Athrav Pawar</h1>
-    <h2>"Immersed in the World of Innovation |Dedicated for Transforming Ideas into Real-World Solutions"</h2>
+    <h1>Athrav Pramod Pawar</h1>
+    <h2>"Motivated B.Tech Graduate | Transforming Ideas into Real-World Solutions"</h2>
     <p>
-        Hi! I’m Athrav Pawar, a tech enthusiast passionate about building intelligent AI systems using Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). I thrive on leveraging cutting-edge technologies to solve real-world challenges with creativity and innovation. From fine-tuning AI models to crafting engaging and impactful solutions, I’m dedicated to making AI more accessible, exciting, and meaningful.
-        Let’s transform ideas into reality—one smart system at a time!
+        Hello! I’m Athrav Pawar, a passionate B.Tech graduate in Artificial Intelligence and Data Science. My journey is all about applying critical thinking, problem-solving, and multitasking to develop innovative AI solutions. I excel at designing, fine-tuning, and deploying intelligent systems that drive impactful changes in real-world scenarios. With hands-on experience in academic projects, professional internships, and hackathons, I aim to create scalable and efficient systems powered by AI and data science.
+        Let’s explore innovation and make a difference—one project at a time!
     </p>
     <hr>
     <h2>🚀 About Me </h2>
     <ul>
-        <li><strong>What I do:</strong> Learning to build AI systems that solve real problems.</li>
-        <li><strong>Skills:</strong> Deep Learning, Machine Learning, NLP, and Generative AI (in progress).</li>
-        <li><strong>Fun Fact:</strong> I make tech more fun with memes!</li>
+        <li><strong>What I do:</strong> Building AI solutions and gaining expertise in solving real-world challenges.</li>
+        <li><strong>Skills:</strong> Machine Learning, Deep Learning, NLP, Power BI, .NET, and C#.</li>
+        <li><strong>Fun Fact:</strong> Apart from coding, I’ve earned a gold medal in cricket and football at intercollegiate events!</li>
     </ul>
     <hr>
     <h2>🛠️ Skills & Expertise</h2>
-    <h3>Deep Learning (DL)</h3>
-    <p>Currently learning to build and train neural networks.</p>
-    <h3>Machine Learning (ML)</h3>
-    <p>Exploring model creation to solve challenges.</p>
-    <h3>Natural Language Processing (NLP)</h3>
-    <p>Studying how to teach machines to understand and generate text.</p>
-    <h3>Generative AI</h3>
-    <p>Experimenting with creating text, images, and memes.</p>
+    <h3>Programming and Conceptual Skills</h3>
+    <p>Proficient in Python, MySQL, R, C#, .NET, HTML, CSS, JavaScript, DBMS, Git, and more.</p>
+    <h3>Data Analysis</h3>
+    <p>Experienced in using Power BI to create dashboards and derive insights using data.</p>
+    <h3>Machine Learning and AI</h3>
+    <p>Skilled in building ML models using tools like TensorFlow, OpenCV, and scikit-learn.</p>
+    <h3>Soft Skills</h3>
+    <p>Strong leadership, teamwork, communication, project management, and decision-making skills.</p>
     <hr>
     <h2>🌟 Projects in Progress</h2>
-    <h3>Memish</h3>
-    <p><em>A one-click meme generator tool.</em></p>
+    <h3>Climate-Resilient Agriculture Using AI</h3>
+    <p><em>A research initiative focused on mitigating the effects of climate change on agriculture using AI.</em></p>
     <ul>
-        <li><strong>Features:</strong> Uses AI to select the best template, add text, and process uploaded images or videos into memes.</li>
-        <li><strong>Status:</strong> Work in progress, learning to implement better features for fun and engagement.</li>
+        <li><strong>Status:</strong> Research paper in progress for IEEE publication (December 2024).</li>
     </ul>
-    <h3>RAG System 🔍</h3>
-    <p><em>A system that retrieves useful information and generates accurate responses.</em></p>
+    <h3>CancerGo: Breast Cancer Detection System</h3>
+    <p><em>A web application that uses ML algorithms to detect breast cancer as benign or malignant.</em></p>
     <ul>
-        <li><strong>Retriever:</strong> Aims to quickly find relevant data.</li>
-        <li><strong>Generator:</strong> Plans to use retrieved data to create helpful answers.</li>
-        <li><strong>Use Cases:</strong> Intended for chatbots, virtual assistants, and FAQs.</li>
+        <li><strong>Technologies:</strong> Python, scikit-learn, and NumPy.</li>
+        <li><strong>Outcome:</strong> Optimized accuracy, precision, and recall to ensure reliable predictions.</li>
+    </ul>
+    <h3>DetectX: Object Detection System</h3>
+    <p><em>A web app built using CNNs to achieve high-precision object detection.</em></p>
+    <ul>
+        <li><strong>Technologies:</strong> OpenCV, TensorFlow, and Keras.</li>
     </ul>
     <hr>
     <h2>🏆 Achievements & Journey</h2>
     <ul>
-        <li>Mastering the techniques of fine-tuning AI models to optimize them for specific applications.</li>
-        <li>Engaging in hackathons to gain hands-on experience and create cutting-edge AI solutions.</li>
-        <li>Building a solid foundation in designing scalable AI systems for real-world deployment.</li>
+        <li>General Secretary (2023–2024) at Dr. D.Y. Patil School of Science and Technology.</li>
+        <li>Gold Medalist in cricket and football (intercollegiate).</li>
+        <li>Contributor to Smart India Hackathon (Internal).</li>
+        <li>Published a project dashboard on cricket player analysis using Power BI.</li>
     </ul>
     <hr>
     <blockquote>
-        <p><em>"FUTURE IS INNOVATION"</em></p>
+        <p><em>"Future is Innovation"</em></p>
     </blockquote>
 </body>
 </html>
