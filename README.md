@@ -15,7 +15,6 @@
     <ul>
         <li><strong>What I do:</strong> Building AI solutions and gaining expertise in solving real-world challenges.</li>
         <li><strong>Skills:</strong> Machine Learning, Python, Data Science, Power BI, .NET, and C#.</li>
-        <li><strong>Fun Fact:</strong> Apart from coding, I’ve earned a gold medal in cricket and football at intercollegiate events!</li>
     </ul>
     <hr>
     <h2>🛠️ Skills & Expertise</h2>
