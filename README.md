@@ -14,13 +14,13 @@
     <h2>🚀 About Me </h2>
     <ul>
         <li><strong>What I do:</strong> Building AI solutions and gaining expertise in solving real-world challenges.</li>
-        <li><strong>Skills:</strong> Machine Learning, Deep Learning, NLP, Power BI, .NET, and C#.</li>
+        <li><strong>Skills:</strong> Machine Learning, Python, Data Science, Power BI, .NET, and C#.</li>
         <li><strong>Fun Fact:</strong> Apart from coding, I’ve earned a gold medal in cricket and football at intercollegiate events!</li>
     </ul>
     <hr>
     <h2>🛠️ Skills & Expertise</h2>
     <h3>Programming and Conceptual Skills</h3>
-    <p>Proficient in Python, MySQL, R, C#, .NET, HTML, CSS, JavaScript, DBMS, Git, and more.</p>
+    <p>Proficient in Python, MySQL, R, C#, .NET, HTML, CSS, JavaScript, DBMS, and more.</p>
     <h3>Data Analysis</h3>
     <p>Experienced in using Power BI to create dashboards and derive insights using data.</p>
     <h3>Machine Learning and AI</h3>
@@ -28,7 +28,7 @@
     <h3>Soft Skills</h3>
     <p>Strong leadership, teamwork, communication, project management, and decision-making skills.</p>
     <hr>
-    <h2>🌟 Projects in Progress</h2>
+    <h2>🌟 My Projects </h2>
     <h3>Climate-Resilient Agriculture Using AI</h3>
     <p><em>A research initiative focused on mitigating the effects of climate change on agriculture using AI.</em></p>
     <ul>
@@ -49,9 +49,7 @@
     <h2>🏆 Achievements & Journey</h2>
     <ul>
         <li>General Secretary (2023–2024) at Dr. D.Y. Patil School of Science and Technology.</li>
-        <li>Gold Medalist in cricket and football (intercollegiate).</li>
         <li>Contributor to Smart India Hackathon (Internal).</li>
-        <li>Published a project dashboard on cricket player analysis using Power BI.</li>
     </ul>
     <hr>
     <blockquote>
