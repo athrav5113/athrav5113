@@ -14,7 +14,7 @@
     <h2>🚀 About Me </h2>
     <ul>
         <li><strong>What I do:</strong> Building AI solutions and gaining expertise in solving real-world challenges.</li>
-        <li><strong>Skills:</strong> Machine Learning, Python, Data Science, Power BI, .NET, and C#.</li>
+        <li><strong>Skills:</strong> Artificial Intelligence, Machine Learning, SQL, Python, Data Science, Power BI.</li>
     </ul>
     <hr>
     <h2>🛠️ Skills & Expertise</h2>
